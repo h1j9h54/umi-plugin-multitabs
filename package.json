@@ -1,6 +1,6 @@
 {
   "name": "umi-plugin-multitabsfix",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "add multitabs support to pro-layout",
   "keywords": [
     "umi",
