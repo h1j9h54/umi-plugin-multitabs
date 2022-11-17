@@ -1,5 +1,5 @@
 {
-  "name": "umi-plugin-multitabs",
+  "name": "umi-plugin-multitabsfix",
   "version": "0.0.4",
   "description": "add multitabs support to pro-layout",
   "keywords": [
@@ -7,11 +7,11 @@
     "plugin",
     "multitabs"
   ],
-  "homepage": "https://github.com/SagittariusZhu/umi-plugin-multitabs",
-  "bugs": "https://github.com/SagittariusZhu/umi-plugin-multitabs/issues",
+  "homepage": "https://github.com/h1j9h54/umi-plugin-multitabs",
+  "bugs": "https://github.com/h1j9h54/umi-plugin-multitabs/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SagittariusZhu/umi-plugin-multitabs"
+    "url": "https://github.com/h1j9h54/umi-plugin-multitabs"
   },
   "license": "MIT",
   "scripts": {
@@ -55,6 +55,6 @@
     "access": "public"
   },
   "authors": [
-    "EdwardZhu <zhuhy163@163.com> (https://github.com/SagittariusZhu)"
+    "EdwardZhu <h1j9h54@gmail.com> (https://github.com/h1j9h54)"
   ]
 }
